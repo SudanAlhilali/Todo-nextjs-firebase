@@ -31,3 +31,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+<<<<<<< HEAD
+=======
+
+#secret
+secrets.json 
+>>>>>>> a65c98ee946da82064a4a6c0d42ba2a36b12d80c
